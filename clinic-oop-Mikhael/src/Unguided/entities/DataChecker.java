@@ -9,6 +9,7 @@ package Unguided.entities;
  * @author ACER
  */
 public class DataChecker {
+   // Metode untuk memvalidasi umur pasien.
    public static boolean validatePatientAge(int age) {
       return age > 0 && age < 120;
    }
