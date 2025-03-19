@@ -3,6 +3,7 @@ NightFall Clinic adalah sistem manajemen klinik sederhana yang ditulis dalam Jav
 Sistem ini dirancang untuk mengelola dokter, pasien, janji temu, dan pencatatan diagnosis menggunakan pendekatan pemrograman berorientasi objek (OOP).
 
 # Struktur Proyek
+```
 clinic-oop-Mikhael/
 ├── src/
 │   ├── Guided/
@@ -26,6 +27,7 @@ clinic-oop-Mikhael/
 │   │   ├── main/
 │   │   │   ├── Main.java
 ├── README.md
+```
 
 # Deskripsi Class
 ## 1. Appointment
